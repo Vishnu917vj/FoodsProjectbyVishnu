@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* App.css */
+
+/* Default Light Theme */
+.Home
+{
+  background-color: rgb(46, 46, 46);
+  color: rgb(230, 226, 226);
+}
+.NavbarMain
+{
+  background-color: rgb(10, 10, 10);
+  color: rgb(230, 226, 226);
+}
+.login{
+  background-color: rgb(117, 114, 114);
+  color: rgb(230, 226, 226);
+  height: 100vh;
+}
+.signin
+{
+  background-color: rgb(117, 114, 114);
+  color: rgb(230, 226, 226);
+  height: 100vh;
+}
